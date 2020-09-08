@@ -1,0 +1,7 @@
+C:\Users\ronng\source\repos\doitiente\doitiente\bin\Debug\doitiente.exe.config
+C:\Users\ronng\source\repos\doitiente\doitiente\bin\Debug\doitiente.exe
+C:\Users\ronng\source\repos\doitiente\doitiente\bin\Debug\doitiente.pdb
+C:\Users\ronng\source\repos\doitiente\doitiente\obj\Debug\doitiente.csprojAssemblyReference.cache
+C:\Users\ronng\source\repos\doitiente\doitiente\obj\Debug\doitiente.csproj.CoreCompileInputs.cache
+C:\Users\ronng\source\repos\doitiente\doitiente\obj\Debug\doitiente.exe
+C:\Users\ronng\source\repos\doitiente\doitiente\obj\Debug\doitiente.pdb
